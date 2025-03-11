@@ -55,7 +55,7 @@ body {
 .img {
     height: 100%;
     width: 50%;
-    background-image: url("../assets/wallhaven-dgrezj_1920x1080.jpg");
+    background-image: url("./assets/wallhaven-dgrezj_1920x1080.jpg");
     background-size: cover;
     background-position: center;
     border-radius: 1rem;
